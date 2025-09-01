@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="de">
+<%- include('partials/header.ejs') %>
+<body>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <img src="assets/images/logo-transparent.png" alt="German Life RP Logo" class="hero-logo fade-in">
+                <h1 class="slide-up">GLRP</h1>
+                <p class="slide-up delay-1">Tauche ein in die ultimative Roleplay-Erfahrung</p>
+                
+                <div class="hero-buttons slide-up delay-2">
+                    <a href="fivem://connect/3qegey" class="btn btn-primary">
+                        <i class="fas fa-play-circle"></i> Connect FiveM
+                    </a>
+                    <a href="https://discord.gg/gl-rp" target="_blank" class="btn btn-secondary">
+                        <i class="fab fa-discord"></i> Join Discord
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="hero-overlay"></div>
+    </section>
+
+    <!-- Server Status Section -->
+
+<section class="server-status">
+    <div class="container">
+        <div class="status-card">
+            <div class="status-header">
+                <h2><i class="fas fa-server"></i> Server Status</h2>
+                <div class="status-refresh">
+                    <button id="refresh-status" class="btn-refresh">
+                        <i class="fas fa-sync-alt"></i>
+                    </button>
+                </div>
+            </div>
+            
+            <div class="status-content">
+                <div class="status-indicator-wrapper">
+                    <div class="status-circle" id="status-circle">
+                        <div class="pulse"></div>
+                        <span class="status-text" id="status-text">Verbinde...</span>
+                    </div>
+                </div>
+                
+                <div class="status-details">
+                    <div class="status-item">
+                        <div class="status-icon">
+                            <i class="fas fa-users"></i>
+                        </div>
+                        <div class="status-info">
+                            <div class="status-label">Spieler Online</div>
+                            <div class="status-value" id="player-count">
+                                <div class="player-fraction">
+                                    <span id="current-players">--</span>
+                                    <span class="separator">/</span>
+                                    <span id="max-players">--</span>
+                                </div>
+                                <div class="progress-bar">
+                                    <div class="progress" id="player-progress"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="status-item">
+                        <div class="status-icon">
+                            <i class="fas fa-signal"></i>
+                        </div>
+                        <div class="status-info">
+                            <div class="status-label">Server Connect</div>
+                            <div class="status-value copy-tooltip">
+                                <span id="server-ip">connect "3qegey"</span>
+                                <button class="copy-btn" id="copy-ip">
+                                    <i class="fas fa-copy"></i>
+                                </button>
+                                <span class="tooltip-text">Command kopieren</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="status-item">
+                        <div class="status-icon">
+                            <i class="fas fa-clock"></i>
+                        </div>
+                        <div class="status-info">
+                            <div class="status-label">Letzte Aktualisierung</div>
+                            <div class="status-value" id="last-update">Gerade eben</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="status-action">
+                <a href="fivem://connect/3qegey" class="btn btn-primary">
+                    <i class="fas fa-play-circle"></i> Jetzt verbinden
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <div class="container">
+            <h2 class="section-title reveal-scroll">Warum German Life RP?</h2>
+            
+            <div class="features-grid">
+                <div class="feature-card reveal-scroll">
+                    <div class="feature-icon">
+                        <i class="fas fa-users"></i>
+                    </div>
+                    <h3>Aktive Community</h3>
+                    <p>Werde Teil einer freundlichen und hilfsbereiten Community mit Spielern aus ganz Deutschland.</p>
+                </div>
+                
+                <div class="feature-card reveal-scroll delay-1">
+                    <div class="feature-icon">
+                        <i class="fas fa-briefcase"></i>
+                    </div>
+                    <h3>Vielfältige Jobs</h3>
+                    <p>Von Polizist bis Gangleader - finde deinen Traumjob in unserer lebendigen Spielwelt.</p>
+                </div>
+                
+                <div class="feature-card reveal-scroll delay-2">
+                    <div class="feature-icon">
+                        <i class="fas fa-car"></i>
+                    </div>
+                    <h3>Custom Fahrzeuge</h3>
+                    <p>Entdecke unsere einzigartigen Fahrzeug-Mods und finde dein persönliches Traumauto.</p>
+                </div>
+                
+                <div class="feature-card reveal-scroll">
+                    <div class="feature-icon">
+                        <i class="fas fa-home"></i>
+                    </div>
+                    <h3>Immobiliensystem</h3>
+                    <p>Kaufe und gestalte dein eigenes Zuhause in verschiedenen Stadtteilen.</p>
+                </div>
+                
+                <div class="feature-card reveal-scroll delay-1">
+                    <div class="feature-icon">
+                        <i class="fas fa-shield-alt"></i>
+                    </div>
+                    <h3>Faire Administration</h3>
+                    <p>Unser erfahrenes Admin-Team sorgt für ein faires Spielerlebnis für alle.</p>
+                </div>
+                
+                <div class="feature-card reveal-scroll delay-2">
+                    <div class="feature-icon">
+                        <i class="fas fa-calendar-alt"></i>
+                    </div>
+                    <h3>Regelmäßige Events</h3>
+                    <p>Nimm an spannenden Community-Events mit tollen Preisen teil.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Discord Section -->
+    <!-- Discord Section -->
+<section class="discord-section">
+    <div class="container">
+        <div class="discord-content">
+            <div class="discord-info reveal-scroll">
+                <div class="discord-header">
+                    <i class="fab fa-discord"></i>
+                    <h2>Join unserem Discord</h2>
+                </div>
+                <p>Werde Teil unserer Community, stelle Fragen und bleibe auf dem Laufenden über alle Updates und Events.</p>
+                <br>
+                <a href="https://discord.gg/gl-rp" target="_blank" class="btn btn-discord">
+                    <i class="fab fa-discord"></i> Jetzt beitreten
+                </a>
+            </div>
+            
+            <iframe src="https://discord.com/widget?id=1307003496247201894&theme=dark" style="margin-left:25%;"width="650" height="400" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+        </div>
+    </div>
+</section>
+    <!-- Gallery Section -->
+    <section class="gallery">
+        <div class="container">
+            <h2 class="section-title reveal-scroll">Eindrücke aus der Spielwelt</h2>
+            <div class="gallery-grid">
+                <div class="gallery-item reveal-scroll">
+                    <img src="assets/images/placeholder.png" alt="PLACEHOLDER">
+                </div>
+                <div class="gallery-item reveal-scroll delay-1">
+                    <img src="assets/images/placeholder.png" alt="PLACEHOLDER">
+                </div>
+                <div class="gallery-item reveal-scroll delay-2">
+                    <img src="assets/images/placeholder.png" alt="PLACEHOLDER">
+                </div>
+                <div class="gallery-item reveal-scroll">
+                    <img src="assets/images/placeholder.png" alt="PLACEHOLDER">
+                </div>
+                <div class="gallery-item reveal-scroll delay-1">
+                    <img src="assets/images/placeholder.png" alt="PLACEHOLDER">
+                </div>
+                <div class="gallery-item reveal-scroll delay-2">
+                    <img src="assets/images/placeholder.png" alt="PLACEHOLDER">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- News Section -->
+    <section class="news">
+        <div class="container">
+            <h2 class="section-title reveal-scroll">Aktuelle News</h2>
+            <div class="news-grid">
+                <div class="news-card reveal-scroll">
+                    <div class="news-date">17.03.2025</div>
+                    <h3>Lorem ipsum dolor</h3>
+                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At</p>
+                    <a href="#" class="read-more">Mehr lesen →</a>
+                </div>
+                <div class="news-card reveal-scroll delay-1">
+                    <div class="news-date">10.03.2025</div>
+                    <h3>Lorem ipsum dolor</h3>
+                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At</p>
+                    <a href="#" class="read-more">Mehr lesen →</a>
+                </div>
+                <div class="news-card reveal-scroll delay-2">
+                    <div class="news-date">02.03.2025</div>
+                    <h3>Lorem ipsum dolor</h3>
+                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At</p>
+                    <a href="#" class="read-more">Mehr lesen →</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action -->
+    <section class="cta">
+        <div class="container">
+            <div class="cta-content reveal-scroll">
+                <h2>Bereit für das ultimative RP-Erlebnis?</h2>
+                <p>Tritt jetzt German Life RP bei und werde Teil unserer wachsenden Community!</p>
+                <div class="cta-buttons">
+                    <a href="fivem://connect/3qegey" class="btn btn-primary">
+                        <i class="fas fa-play-circle"></i> Connect FiveM
+                    </a>
+                    <a href="/regelwerk" class="btn btn-outline">
+                        <i class="fas fa-book"></i> Regelwerk lesen
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <%- include('partials/footer.ejs') %>
+</body>
+</html>

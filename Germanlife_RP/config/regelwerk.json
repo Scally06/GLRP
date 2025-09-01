@@ -1,0 +1,233 @@
+{
+    "title": "Ingame Regelwerk",
+    "sections": [
+      {
+        "title": "§1 Allgemeines",
+        "rules": [
+          "Alle hier verfassten Regeln sind ausnahmslos einzuhalten. Das Ausnutzen von Lücken wird geahndet.",
+          "Das Mindestalter für unseren Gameserver liegt bei 16 Jahren, eingeschätzt wird dieses durch Reife & Verhalten. Der Support nimmt sich das Recht, diese für sich einzuschätzen.",
+          "Man ist selbst verantwortlich, das Regelwerk zu kennen und sich selbstständig auf den neuesten Stand zu bringen. Unwissenheit schützt nicht vor Strafe.",
+          "Bei Benutzung des Servers willigst du ein, dass deine Ingame Handlungen aufgenommen werden dürfen.",
+          "ALLE geplanten Schießereien bzw. Aktionen wie zum Beispiel ein Konflikt, Baseraid, Lootdrop, Gangwar, Flugzeugabsturz, Labor, ... müssen vollständig aufgenommen werden und 48 Stunden aufbewahrt werden.",
+          "Das Serverteam nimmt sich das Recht innerhalb dieser zwei Tage diese Aufnahme per Ticket auf dem Discord einzufordern im Fall einer Beschwerde.",
+          "Sollte eine Aufnahme nicht vorhanden sein oder in absichtlich schlechter Qualität (dass Nichts erkennbar ist), so nimmt sich das Serverteam passende Sanktionen vor.",
+          "Trollen und unnötiges Provozieren, z.B. mit Soundboards, ist untersagt.",
+          "Beleidigungen und jede andere Art von RP Situation sind stets IC zu nehmen. Trenne IC von OOC.",
+          "Beleidigungen bis zu einem gewissen Grad sind im RP erlaubt. Übertriebene Beleidigungen, wie 'ich ficke deine Toten', 'ich rauche die Asche deiner toten Oma' usw. sind zu unterlassen und werden sanktioniert.",
+          "Die Beleidigung 'Hurensohn', 'Mulle' ohne jeglichen Hintergrund auszurufen ist strengstens untersagt. Für diese Beleidigung muss eine gravierende Tat im RP geschehen.",
+          "In einer passenden Situation ist das einmalige Sagen der Beleidigung 'Hurensohn', 'Mulle' erlaubt. Spamen des Wortes oder es in jedem dritten Satz zu benutzen, ist ebenfalls untersagt.",
+          "Du trägst die Verantwortung über deinen Account.",
+          "Das Verkaufen von 'Ingame Geld' oder anderen 'Ingame Gegenständen' mit echtem Geld ist strengstens untersagt.",
+          "Das Ausnutzen von Glitches oder Bugs ist verboten und wird mit einem permanenten Bann bestraft.",
+          "Sollte eine Person wissen, dass eine andere Person Hackt / Glitcht oder Bugs ausnutzt, muss dies unverzüglich im Support gemeldet werden. Ignoriert man dies, muss man mit einer Strafe rechnen.",
+          "Jegliche Art von rassistischen oder diskriminierenden Äußerungen und speziell Frauenfeindlichkeit sind verboten und werden sanktioniert.",
+          "Wenn du auf unserem Server streamst, solltest du 'GLRP' im Titel haben.",
+          "Solltest du unsachlich und respektlos über das Projekt reden, so behält sich das Team vor, dich zu sanktionieren.",
+          "Die Ingame Namen dürfen nur aus ganzen Wörtern bestehen.",
+          "Kürzel und Zahlen sind im Namen untersagt. (Bsp. 'AMK' 'ACAB' 'LG' 'ESL')",
+          "Des Weiteren müssen Deutsche Buchstaben verwendet werden, Sonderzeichen sind ebenso strengstens untersagt.",
+          "Trollnamen sind verboten, das Team nimmt sich vor die Namen selbst einzuschätzen und ggf. zu sanktionieren.",
+          "Regelbruch mit Regelbruch kontern ist strengstens untersagt."
+        ]
+      },
+      {
+        "title": "§2 Roleplay",
+        "rules": [
+          "Das Leben von eurem RP Charakter ist das Wichtigste, deshalb sollte man es nicht umsonst aufs Spiel setzen. Es ist euer höchstes Gut.",
+          "Sinnloses Angreifen anderer Mitspieler ohne RP Hintergrund, nennt man RDM (Random Deathmatch) ist strengstens untersagt. (Schusswaffen, Nahkampf etc.)",
+          "Sinnloses Anfahren bzw. Überfahren von anderen Mitspielen nennt man VDM (Vehicle Deathmatch) und ist strengstens untersagt, sofern man keinen Roleplay Hintergrund hat.",
+          "PowerRP, der anderen Partei keinen Ausweg zu lassen, ist strengstens untersagt.",
+          "Metagaming, das Verwenden von OOC Informationen ist strengstens verboten! (Der Aufenthalt in Discord während dem IC sein ist untersagt!)",
+          "FailRP, unrealistisches Verhalten, ist strengstens untersagt!",
+          "Das absichtliche Crashen mit einem Flugobjekt in jenes Andere zählt als FailRP!",
+          "Stimmverzerrer sind nur bei einem Anruf erlaubt.",
+          "Es gibt folgende Safezones: LSMD, Flughafen, Fitnessbereich Vespucci, der gesamte Pier und alle legalen Farming Routen.",
+          "Man darf sich aus einer laufenden Gefahrenlage nicht zum Eigenschutz in eine Safezone begeben.",
+          "Wenn man in einer Safezone einen anderen Spieler provoziert oder baited, dann wird für die betroffenen Parteien die Safezone aufgehoben.",
+          "Eine Safezone kann von keiner Fraktion als ihr Gebiet deklariert werden und bleibt stets ein neutraler Ort.",
+          "Man darf sich nicht als Mitglied einer Staatsfraktion ausgeben! Man darf keine Staatsfahrzeuge stehlen, sofern man nicht in einer lebensbedrohlichen Lage ist.",
+          "Combat Logging, das Ausloggen in einer RP Situation, ist strengstens untersagt! Wenn man ins Wasser flüchtet, gilt dies als RP-Flucht.",
+          "Mediziner genießen die Unantastbarkeit, jedoch verfällt diese, wenn es einen triftigen Roleplay Hintergrund gibt.",
+          "Triftige Gründe sind das Agieren und Handeln gegen den Willen einer Gewinnerpartei, ausgenommen hierbei sind sogenannte 'Anfahrtssperren', schwere Beleidigungen stellen ebenfalls einen triftigen Grund dar.",
+          "Anfahrtssperren dürfen nur aus wichtigen Gründen, wie einer Entführung, mehrfacher Beleidigung oder die Eröffnung eines Schussgefechtes auf Mediziner, ausgesprochen werden.",
+          "Mediziner dürfen nicht bedroht werden, um medizinische Leistungen zu erzwingen.",
+          "Sollte ein Mediziner im Konflikt erschossen werden, so darf dieser von einem anderen Mediziner gerettet werden, muss sich allerdings für 30 Minuten vom Ort fern halten.",
+          "Um auf andere Spieler schießen zu dürfen, muss man davor einen Schusscall abgeben oder deutlich 5 Sekunden auf die Person gezielt werden.",
+          "Eine Schussankündigung verfällt nach 5 Minuten.",
+          "Nach einem Schusscall muss eine Reaktionszeit von 3 Sekunden gegeben werden.",
+          "Ein Tazer Schuss muss ebenfalls angekündigt werden, jedoch ist es kein Schusscall!",
+          "Für Nahkampfwaffen wird ebenfalls ein Schusscall benötigt, dieser muss verbal abgegeben werden.",
+          "Drive-Bys von Fahrzeug zu Fahrzeug sind erlaubt! Drive-Bys auf Personen sind untersagt.",
+          "Vergewaltigungen und Misshandlungen sind im RP strengstens verboten! Hinzu dürfen keine Schwangerschaften, Religionen, Behinderungen und terroristisch veranlagte Roleplays durchgeführt werden.",
+          "Des Weiteren sind hardcore Sexhandlungen untersagt!",
+          "Sobald man stabilisiert ist, darf man am Boden reden. Doch denke daran, dass du verletzt bist, spiele es aus.",
+          "Korruption ist verboten und wird mit einem Ban bestraft.",
+          "Cop Baiting und Gang Baiting ist strengstens untersagt und wird mit einem Ban bestraft!",
+          "Ein Raub wie Ladenraub, Juwelier, oder Ähnliches darf nur gestartet werden, wenn dieser gezielt durchgeführt wird. Direkt den Raub wieder beenden wird sanktioniert.",
+          "Maskierte Personen dürfen nicht wiedererkannt werden, wenn sie nicht die gleiche Kleidung anhaben.",
+          "Des Weiteren dürfen Spieler nicht anhand ihrer Stimme wiedererkannt werden.",
+          "Das Erfinden von Gegenständen, die es nicht im Spiel gibt, ist verboten. Dinge, die von FiveM oder GTA V so sind, müssen ausgespielt werden.",
+          "Das Benutzen und Besitzen von Waffen einer Staatsfraktion als Zivi oder Mitglied einer Bad/Neutralen Fraktion ist verboten.",
+          "Man darf Personen nur mit triftigem Roleplay Hintergrund ausrauben. Aus reinem finanziellen Interesse ist es nicht gestattet.",
+          "Spieler, die kooperieren, dürfen nicht getötet werden.",
+          "Es darf niemand gezwungen werden, sich auszuziehen.",
+          "Ausnahme davon ist das GangRP [Farbe ausziehen].",
+          "Das Klauen von Gegenständen aus Kofferräumen auf legalen Farming Routen ist untersagt.",
+          "Kofferräume dürfen nicht ohne RP Hintergrund geplündert werden.",
+          "Als RP Hintergrund gelten staatliche Kontrollen oder Fraktion gegen Fraktion.",
+          "Dem Besitzer (Fraktion) einer Route ist es gestattet, Gegenstände auf der Route, von der Route, von unerwünschten Spieler aus Kofferräumen zu stehlen.",
+          "Spieler dürfen nicht gezwungen werden, den Kofferraum zu öffnen.",
+          "Kofferräume dürfen nur von Fraktionsmitgliedern ausgeraubt werden.",
+          "Kofferräume dürfen bei geplanten Baseraids oder Streetfights einer Fraktion geplündert werden.",
+          "Ein Streetfight wird erst bei einem 12vs12 oder mehr, als wirklicher Streetfight angesehen.",
+          "Eine Geldübergabe ab einer Millionen Dollar muss im Support angemeldet werden.",
+          "Das Klauen von Autos in einer Safezone ist verboten.",
+          "Leichenschändung und das Reden mit Leichen ist strengstens untersagt.",
+          "Das Abspielen von Musik und das provozieren bei Leichen ist verboten.",
+          "Die Weitergabe von Farming Items ist ab einer Menge von 1000 verboten.",
+          "Die Weitergabe von Waffen ist ab einer Menge von 10 verboten.",
+          "Ausnahme: Es ist im Support angemeldet.",
+          "Zivilisten dürfen maximal in einer Gruppe von 7 Personen zusammen agieren.",
+          "Um als 7 köpfige Zivil Gruppierung agieren zu dürfen, brauchen alle klare Erkennungsmerkmale. (mindestens 2 gleiche Kleidungsstücke, wird eine Maske getragen, muss diese die selbe sein).",
+          "Das Fesseln eines Spielers muss ebenfalls angekündigt werden und diese müssen stets von vorne angebracht werden.",
+          "Das Einparken von Fahrzeugen in einer laufenden Verfolgung oder Kampfhandlung ist untersagt.",
+          "Das Weiterfahren eines Fahrzeuges ist ab 2 platten Reifen untersagt, es sei denn du schützt dein Leben.",
+          "Das Weiterfahren mit einem Fahrzeug in dem Zustand 'Totalschaden', ist untersagt.",
+          "Mediziner dürfen nicht in laufenden RP Situationen eingreifen. Nach der Situation entscheidet die Gewinnerpartei, wer zuerst hochgeholt werden darf. Die Anweisungen der Gewinnerpartei müssen vom Mediziner folge geleistet werden.",
+          "Ein Supporter sollte wenn möglich erst nach Ablauf einer RP Situation gerufen werden.",
+          "Das OOC reden IC ist strengstens untersagt.",
+          "Das Hinweisen auf das Regelwerk, sowie mit dem Support zu drohen, während einer RP Situation ist verboten.",
+          "Auch Sätze wie 'Hab ich auf Dashcam, Ich habe eine Handyaufnahme' sind nicht erlaubt.",
+          "Jedes Mitglied einer Staatsfraktion ist verpflichtet, sich bei Nachfrage eindeutig mit einer Dienstnummer oder einem Codenamen zu identifizieren. Die Verweigerung wird sanktioniert.",
+          "AFK Farmen ist verboten, eine maximale Abwesenheit von 5 Minuten ist erlaubt.",
+          "Das Farmen und das Gleichzeitige im Kofferraum sein, zählt unter Bug Abuse.",
+          "Es ist verboten, sich als eine offizielle Fraktion auszugeben, in der man kein Mitglied ist.",
+          "Das Betreten einer Hood, Anwesen einer Fraktion ist keine automatische Schussankündigung.",
+          "Teammitglieder im A-Duty sind im RP zu ignorieren.",
+          "Unnötiges gepitte von Fahrzeuge ist zu unterlassen.",
+          "Das Zinken von Fraktion-Tresorschlüsseln ist strengstens untersagt.",
+          "Das Abfangen von Spielern am MD ist strengstens untersagt.",
+          "Das Durchsuchen eines Spielers ist stets anzukündigen.",
+          "Das Klauen von Fahrzeugen ohne vernünftigen Roleplay-Hintergrund ist untersagt.",
+          "Das Umlackieren und Ändern am Tuning von geklauten Fahrzeug ist untersagt.",
+          "Der Besitz und das Sammeln von Metall ist nicht illegal.",
+          "Die Verarbeitung zu Waffenteilen und das Besitzen davon ist illegal.",
+          "Das Benutzen von Emotes während eines Gefechts ist verboten.",
+          "Es ist verboten, die Spray Funktion auszunutzen. Sprich, Spray’s, die nicht ins RP passen, sind zu unterlassen.",
+          "Darunter zählen z.B. Beleidigungen etc. ohne Kontext. (Schwanz, …)",
+          "Ebenso ist es untersagt, einen Satz durch mehrere Sprays zu bilden.",
+          "Des Weiteren ist es untersagt, einzelne Personen zu beleidigen oder zu triggern. Lediglich dürfen die Sprays zur Provokation anderer Gruppierungen verwendet werden.",
+          "Das Weitergeben von Telefonnummern anderer Personen ist ohne deren Zustimmung zu unterlassen.",
+          "Das High-Team nimmt sich das Recht heraus, Spielernamen umzubenennen, wenn dies erforderlich ist.",
+          "Ausgewählte Fahrzeuge dürfen bei einer Schießerei nicht mehr genutzt werden, Liste siehe Anbei.",
+          "Ausnahme, wenn man in einem der Fahrzeuge sitzt und einen Call erhält. Jedoch darf der Call nicht provoziert werden.",
+          "Wenn man beabsichtigt, den Fitnessbereich Vespucci zu besuchen, so müssen Fahrzeuge eingeparkt werden, um das Fahrzeugaufkommen am Fitnessbereich Vespucci zu verringern.",
+          "Wenn man beabsichtigt, den Pier zu besuchen, müssen jegliche Fahrzeuge eingeparkt werden, um das Fahrzeugaufkommen am Pier zu verringern. Sämtliche Fahrzeuge beim Angeln sind verboten!",
+          "Das Weitergeben von 'Ingame Gegenständen' oder 'Ingame Geld' wegen OOC Anlässen, wie beispielsweise Fahrzeug-Lizenzen oder Ähnlichem, ist strengstens untersagt.",
+          "Es müssen im SG mind. 5 Mitglieder der eigenen Fraktion eingesperrt sein oder der jeweilige 12er der Fraktion, um eine Geiselnahme mit dem Zweck, die Inhaftierten zu befreien, starten zu können.",
+          "Sollte man sich mit einer Staatsfraktion in einer Verkehrskontrolle befinden, muss man die RP-Situation gerecht ausspielen, dies gilt für beide Parteien.",
+          "Es darf ohne triftigen RP-Hintergrund nicht in einem Schussgefecht enden, dementsprechend verhaltet euch normal und es sollte nichts passieren.",
+          "Eine Verkehrskontrolle ist keine Grundlage für eine Durchsuchung einer Person.",
+          "Eine maskierte Person sollte zunächst durch mündliches Auffordern die Möglichkeit erhalten, die Maske auszuziehen. Sollte er dies nicht nachkommen, ist eine verdächtige Situation gegeben und erst dann ist das Durchsuchen einer Person legitim.",
+          "Es ist verboten, als Zivilist aggressiv gegen eine Fraktion vorzugehen. Selbst mit einem guten Grund darf nicht aggressiv mit Waffengewalt gehandelt werden.",
+          "Als Zivilist ist es besonders untersagt, einen Call von einer Fraktion oder anderen Zivilisten zu provozieren. Als Provokation gilt auch sinnloses Beleidigen und Pitten.",
+          "Zivilisten ist es maximal gestattet, sich zu verteidigen.",
+          "Sobald man bei einer Partei den Ansatz sieht, dass sie eine Mauer ziehen und aussteigen wollen, ist es verboten in diese reinzupitten."
+        ]
+      },
+      {
+        "title": "§3 New Life",
+        "rules": [
+          "Wenn man im Krankenhaus aufwacht, kann man sich nicht mehr an die letzte RP-Situation erinnern.",
+          "Sobald ein Spieler im Krankenhaus aufgewacht ist, hat er sich von der letzten RP-Situation fernzuhalten.",
+          "Spieler dürfen sich 30 Minuten lang dem Ort, an dem sie ausgeblutet sind, nicht nähern.",
+          "Solltest du von einem Mediziner wiederbelebt werden, kannst du dich 10 Minuten nach der Reanimation leicht an die Situation erinnern. (Man kann sich nicht an Namen erinnern)",
+          "Des Weiteren muss jeder Spieler mindestens 1 Minute die Verletzung ausspielen und ist in dieser Zeit geschwächt, sodass er keine Waffe oder Ähnliches halten kann."
+        ]
+      },
+      {
+        "title": "§4 Support",
+        "rules": [
+          "Bevor man in den Support geht, muss die aktuelle RP-Situation ausgespielt werden.",
+          "Erstattungsanträge über den Support werden ausschließlich nur mit einem Bild oder Videobeweis bearbeitet. Dies gilt auch für Gegenstände, die durch einen Spielfehler verloren gingen. Außerdem werden Sachen nur im Wert von mindestens 350.000 $ zurückerstattet.",
+          "Du kannst keinen Regelverstoß melden, wenn du in der RP-Situation nicht dabei warst.",
+          "Sollte man nach Aufforderung des Teams, sich nicht im Support einfinden, wird dies bestraft.",
+          "Supportgespräche dürfen nicht aufgenommen werden. Sollte man sich jedoch ungerecht behandelt fühlen und möchte eine Beschwerde machen, dann darf das Gespräch aufgenommen werden.",
+          "Das Beweismaterial darf ausschließlich innerhalb der Beschwerde weiterverschickt werden - sämtliche Veröffentlichungen werden sanktioniert."
+        ]
+      },
+      {
+        "title": "§5 Raub etc.",
+        "rules": [
+          "Bei einer Geiselnahme steht das RP im Vordergrund, und nicht das Geld.",
+          "Pro Geisel dürfen maximal $75.000 verlangt werden. Bei einer leitenden Person wie z.B. Chief of Police darf maximal $200.000 verlangt werden.",
+          "Gegenstände können auch als Lösungsmittel eingesetzt werden. Jedoch sollte es realistisch mit dem Geiseln Preis sein. [Sprich eine Geisel ist nicht gleich eine Langwaffe]"
+        ]
+      },
+      {
+        "title": "§6 Hardware & Teamspeak",
+        "rules": [
+          "Für das Bespielen des Servers ist ein gutes Mikrofon Voraussetzung.",
+          "Vor dem Beitritt des Servers sind Hintergrund- und Störgeräusche zu beheben.",
+          "Es ist untersagt, währenddessen man sich Ingame befindet, über andere Kommunikationsplattformen zu kommunizieren.",
+          "Während man sich Ingame befindet, muss man zu jeder Zeit ansprechbar sein."
+        ]
+      },
+      {
+        "title": "§7 Modifikationen",
+        "rules": [
+          "Das Nutzen von Modded Crosshairs ist gestattet.",
+          "Jegliche Mods, die das reine Aussehen von GTA verändern, sind verboten. Ausgeschlossen sind Grafikmods wie (Redux usw.)",
+          "Modifikationen, die die Tracer verändern sind verboten, dazu zählen auch gar keine Tracer.",
+          "Das Besitzen von Cheats, Mod Menüs oder sonstigen Hacks ist verboten und wird mit einem permanenten Bann bestraft, auch wenn Dateien von der Vergangenheit gefunden werden.",
+          "Die Verwendung von Makros oder ähnlichen Programmen, um sich Vorteile zu verschaffen, ist verboten und wird mit einem Bann bestraft."
+        ]
+      },
+      {
+        "title": "§8 Stadt der Diebe",
+        "rules": [
+          "Der Staat (FIB, Medics, Army und PD) dürfen nicht im Dienst in der Stadt der Diebe agieren. Jegliches Handeln führt zu einer Sanktion.",
+          "Innerhalb der Stadt der Diebe ist das wiederbeleben verboten. Jeglicher Dispache ist zu ignorieren.",
+          "Die Staatsdiener dürfen außerhalb vom Dienst und ohne Uniform diese Stadt betreten. Sie werden als Zivilisten deklariert und mit dem Regelwerk auch so verglichen.",
+          "Die Stadt der Diebe, somit auch das Regelwerk dafür, ist nur von 18:00 Uhr bis 00:00 Uhr aktiv!",
+          "In der No Go Area ist K.O.S. (Kill on Sight). In dieser Zone darf OHNE Schuss Ankündigung geschossen werden. Die No Go Area betrifft NUR die Stadt der Diebe, sprich in der sich der Sammelpunkt der neuen Droge befindet.",
+          "Die Stadt Los Santos ist damit nicht gemeint!",
+          "Eine Fraktion darf nur mit maximal 10 Mitgliedern in der Stadt der Diebe agieren. Des Weiteren dürfen keine weiteren Personen einer Fraktion von außen agieren.",
+          "Zivilisten dürfen in der Stadt maximal mit 7 Leuten zusammen agieren.",
+          "Kooperation zweier Parteien, innerhalb der No Go Area, ist verboten.",
+          "Die Verkäufer & Verarbeiter dürfen NICHT in Besitz einer Fraktion genommen werden!",
+          "Bei den Verkäufern & Verarbeitern gilt die K.O.S Regel NICHT.",
+          "Innerhalb der Stadt der Diebe ist das Kämpfen ausschließlich mit Schusswaffen erlaubt. Nahkampfwaffen sind somit verboten.",
+          "Innerhalb der Stadt der Diebe ist das Klauen aus einem Kofferraum ohne RP-Hintergrund erlaubt.",
+          "Durch Stadt der Diebe dürfen keine RP-Stränge entstehen oder fortgeführt werden.",
+          "Das Rausschwimmen, während einem Gefecht, ist verboten."
+        ]
+      },
+      {
+        "title": "§9 Free for All",
+        "rules": [
+          "In der FFA-Zone dürfen keine RP-Stränge entstehen oder fortgeführt werden.",
+          "Das Reden innerhalb der FFA-Zone ist nicht erlaubt.",
+          "Das Benutzen der Sniper / Marksman / Tazer / MG innerhalb der FFA-Zone ist nicht erlaubt.",
+          "Das Teaming innerhalb der FFA-Zone ist komplett verboten und wird sanktioniert!",
+          "Job Menüs (F6) sind in der FFA-Zone verboten!",
+          "Der Nahkampf ist im FFA untersagt."
+        ]
+      },
+      {
+        "title": "§10 Wörterblacklist",
+        "rules": [
+          "Nigga/Neger (Anspielungen auf die Herkunft)",
+          "sämtliche Beleidigungen gegen Tote",
+          "Frauen- / Männerdiskriminierung OOC basiert (Küche, keine Rechte, etc.)",
+          "Bibel oder ein anderes Buch Gottes (Im Bezug auf das Regelwerk)",
+          "Rösti-/ Pommes",
+          "Movement / Aim / One-Shot oder sonstige Gaming-Begriffe",
+          "GG (Good Game)",
+          "Engel, Götter, PowerRanger, von Oben, Suppe, Suppenküche, Suppenkoch und jegliche anderen Begriffe, um eine Anspielungen auf den Supporter zu machen.",
+          "Livestream (Dies darf gekennzeichnet werden im RP, z.B. mit Eule/Kolben/Drohne)",
+          "Letzter Ritt etc."
+        ]
+      }
+    ]
+  }

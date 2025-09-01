@@ -1,0 +1,43 @@
+<!-- rules.ejs -->
+<%- include('partials/header') %>
+
+<div class="container">
+  <section class="rulebook">
+    <h1 class="section-title"><%= rules.title%></h1>
+    
+    <!-- Table of Contents -->
+    <div class="toc-container">
+      <div class="toc-header">
+        <h2>Inhaltsverzeichnis</h2>
+      </div>
+      <ul class="toc-list">
+        <% rules.sections.forEach((section, index) => { %>
+          <li class="toc-item">
+            <a href="#section-<%= index %>" class="toc-link">
+              <%= section.title %>
+            </a>
+          </li>
+        <% }); %>
+      </ul>
+    </div>
+
+    <!-- Rules Content -->
+    <div class="rules-content">
+      <% rules.sections.forEach((section, index) => { %>
+        <div id="section-<%= index %>" class="rule-section reveal-scroll">
+          <h2 class="rule-title"><%= section.title %></h2>
+          <div class="rule-list">
+            <% section.rules.forEach((rule, ruleIndex) => { %>
+              <div class="rule-item">
+                <div class="rule-number"><%= ruleIndex + 1 %></div>
+                <div class="rule-text"><%= rule %></div>
+              </div>
+            <% }); %>
+          </div>
+        </div>
+      <% }); %>
+    </div>
+  </section>
+</div>
+
+<%- include('partials/footer') %>
